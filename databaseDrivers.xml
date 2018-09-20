@@ -9,9 +9,11 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="oracle">
+      <url-template name="SID" template="jdbc:oracle:thin:system/oracle@localhost:1521:xe" />
       <artifact name="Oracle" use="true" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true" />
