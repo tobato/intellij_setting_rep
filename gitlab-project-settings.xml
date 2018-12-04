@@ -2,13 +2,5 @@
   <component name="SettingsState">
     <option name="host" value="http://192.168.131.211:7777/" />
     <option name="token" value="DRMrX3bKoVseC-jyTsFm" />
-    <option name="servers">
-      <list>
-        <ServerDto>
-          <option name="host" value="http://192.168.131.211:7777/" />
-          <option name="token" value="DRMrX3bKoVseC-jyTsFm" />
-        </ServerDto>
-      </list>
-    </option>
   </component>
 </application>
