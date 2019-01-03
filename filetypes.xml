@@ -4,11 +4,12 @@
       <mapping pattern="MessageSendOverViewController" type="CLASS" />
       <mapping ext="xmind" type="Native" />
       <mapping pattern="build.gradle" type="PLAIN_TEXT" />
-      <mapping pattern="jenk" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="jenk" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping pattern="conf" type="Properties" />
     </extensionMap>
   </component>
 </application>
