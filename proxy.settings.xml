@@ -1,9 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="proxy.neusoft.com" />
-    <option name="PROXY_PORT" value="8080" />
-    <option name="PROXY_AUTHENTICATION" value="true" />
-    <option name="KEEP_PROXY_PASSWORD" value="true" />
-    <option name="PROXY_EXCEPTIONS" value="*.neusoft;192.168.174.61" />
-  </component>
-</application>
