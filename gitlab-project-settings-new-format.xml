@@ -1,0 +1,15 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="DRMrX3bKoVseC-jyTsFm" />
+          <option name="apiUrl" value="http://192.168.131.211:7777/" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="192.168.131.211" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
