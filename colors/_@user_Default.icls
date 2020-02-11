@@ -4,20 +4,10 @@
     <property name="created">2019-04-28T21:27:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-02-11T00:08:40</property>
+    <property name="modified">2020-02-11T21:21:50</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="2f2f2f" />
-  </colors>
-  <attributes>
-    <option name="CONSOLE_NORMAL_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
