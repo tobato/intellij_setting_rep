@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="properties_bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
